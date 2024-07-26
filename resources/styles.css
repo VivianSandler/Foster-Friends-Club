@@ -346,10 +346,6 @@ footer .socials img:hover {
 }
 
 @media only screen and (max-width: 630px) {
-  header {
-    height: 5rem;
-  }
-
   .navigation {
     display: none;
   }
